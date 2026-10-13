@@ -1,5 +1,9 @@
 # Vampire Crawlers Wiki
 
+**[Try it online](https://icodyyang.github.io/Vampire-Crawlers-Wiki/)** · [Download the offline edition](https://github.com/iCodyYang/Vampire-Crawlers-Wiki/releases/latest)
+
+Open the online guide without downloading anything. Internet access is needed to load the website; download the HTML file for offline use.
+
 **An offline card encyclopedia and evolution guide.**
 
 [简体中文](README.md) | English
