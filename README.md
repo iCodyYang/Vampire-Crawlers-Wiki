@@ -1,10 +1,11 @@
+简体中文 | [English](README.en.md)
+
 # 吸血鬼爬行者 Wiki
 
 **[在线体验](https://icodyyang.github.io/Vampire-Crawlers-Wiki/)** · [下载离线版](https://github.com/iCodyYang/Vampire-Crawlers-Wiki/releases/latest)
 
 无需下载，点开即可使用；首次访问需要联网。想离线使用，请下载 HTML 文件。
 
-简体中文 | [English](README.en.md)
 
 **卡牌图鉴与进化指南，下载即可离线查阅。**
 

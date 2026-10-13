@@ -1,3 +1,5 @@
+[简体中文](README.md) | English
+
 # Vampire Crawlers Wiki
 
 **[Try it online](https://icodyyang.github.io/Vampire-Crawlers-Wiki/)** · [Download the offline edition](https://github.com/iCodyYang/Vampire-Crawlers-Wiki/releases/latest)
@@ -6,7 +8,6 @@ Open the online guide without downloading anything. Internet access is needed to
 
 **An offline card encyclopedia and evolution guide.**
 
-[简体中文](README.md) | English
 
 Created and maintained by **ZhetengFM (折腾FM)**. Look up card effects, evolution recipes, gem combinations, and unlock requirements for *Vampire Crawlers*. Supports desktop and mobile layouts, with Chinese and English language options.
 
