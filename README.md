@@ -1,82 +1,80 @@
-# Vampire Crawlers Wiki
+# 吸血鬼爬行者 Wiki
 
-**An offline card encyclopedia and evolution guide.**
+简体中文 | [English](README.en.md)
 
-English | [简体中文](README.zh-CN.md)
+**卡牌图鉴与进化指南，下载即可离线查阅。**
 
-Created and maintained by **ZhetengFM (折腾FM)**. Look up card effects, evolution recipes, gem combinations, and unlock requirements for *Vampire Crawlers*. Supports desktop and mobile layouts, with Chinese and English language options.
+由折腾FM制作并维护，帮助你查询《吸血鬼爬行者》（Vampire Crawlers）的卡牌效果、进化配方、宝石搭配和解锁条件。支持电脑、手机和中英文切换。
 
-<img src="docs/images/wiki-icon.png" alt="Vampire Crawlers Wiki icon" width="120">
+<img src="docs/images/wiki-icon.png" alt="吸血鬼爬行者 Wiki 图标" width="120">
 
-## Getting started
+## 怎么使用
 
-1. Download [吸血鬼爬行者Wiki.html](吸血鬼爬行者Wiki.html) using GitHub's **Download raw file** button.
-2. Open the downloaded file in your browser. No installation, account, or server setup is needed.
+1. 下载 [吸血鬼爬行者Wiki.html](吸血鬼爬行者Wiki.html)（在 GitHub 文件页面选择下载原始文件）。
+2. 用浏览器打开，就可以开始查询，无需安装、登录或配置服务器。
 
-**This repository provides the single-file HTML web edition.** Images and reference data are embedded in the file, so the guide works offline. It does not update automatically or read game saves. Links to external reference sites and podcast platforms require an internet connection.
+**本仓库提供的是单 HTML 网页版。** 图片和资料都包含在文件内，离线也能使用；不会实时更新，也不会读取游戏存档。访问资料来源、播客等外部链接时需要联网。
 
-The same HTML file adapts to smaller screens: a bottom navigation bar provides access to Home, Evolutions, Encyclopedia, Unlocks, and More. Compact recipe layouts make browsing easier on phones. Narrowing a desktop window also activates this layout.
+手机打开同一个 HTML，会自动切换为手机布局：底部导航直达首页、进化、图鉴、解锁和更多，进化配方采用适合小屏幕的紧凑排版。在电脑上缩窄窗口，同样会切换布局。
 
-A Xiaohongshu mini-tool edition is also available through [ZhetengFM's Xiaohongshu profile](https://xhslink.cn/o/5JNfppjlgps). This is a separate way to use the guide; you do not need to download or run that edition to use this repository.
+也可以前往 [折腾FM的小红书主页](https://xhslink.cn/o/5JNfppjlgps)，使用小红书小工具版。它是另一个使用入口，使用本仓库的网页版无需下载或运行小红书版本。
 
-## Features
+## 有哪些功能
 
-| Feature | What you can do |
+| 功能 | 可以做什么 |
 | --- | --- |
-| Evolution recipes | Browse 17 illustrated recipes, mark the materials you have, and check what is missing. |
-| Encyclopedia | Search and filter 108 cards, 58 gems, and 113 entries covering game systems. |
-| Unlock guide | Check requirements and rewards for 16 selected milestones, and track your progress. |
-| Builds and FAQ | Explore build ideas and learn about mana-cost combos, evolutions, gems, and other mechanics. |
-| Favorites and progress | Bookmark entries, save material selections and unlock progress, and create manual backups. |
-| Chinese and English | Switch languages for the interface, entries, and guides. English wording is an assisted translation. |
+| 进化速查 | 查看 17 组图解配方，勾选已有材料，快速查找还缺什么。 |
+| 资料图鉴 | 查询 108 张卡牌、58 种宝石及 113 条系统资料，支持搜索和分类筛选。 |
+| 解锁指南 | 查看 16 个精选目标的达成条件与解锁收获，记录完成进度。 |
+| 流派与问答 | 参考搭配思路，了解费用连击、进化、宝石等机制。 |
+| 收藏与进度 | 收藏常查条目，保存材料选择与解锁进度，支持手动备份。 |
+| 中英文切换 | 切换界面、图鉴和指南的语言。英文为辅助翻译。 |
 
-On desktop, hover over an icon for a preview and click for details. On mobile, tap it. Favorites and progress are stored in the current browser; back them up before switching devices or clearing browser data.
+电脑上悬浮图标可以预览资料，点击查看详情；手机上直接点按。收藏和进度保存在当前浏览器，更换设备或清理浏览器数据前，可以先手动备份。
 
-![Official Vampire Crawlers promotional artwork](docs/images/vampire-crawlers-official-art.jpg)
+![Vampire Crawlers 官方游戏宣传图](docs/images/vampire-crawlers-official-art.jpg)
 
-*Official game promotional artwork, not a screenshot of this tool.*
+*游戏官方宣传图，非工具界面截图。*
 
-## Version and data
+## 版本与更新
 
-- **Tool version: 1.2.0.**
-- **Data baseline: version 1.5 of the Steam Chinese encyclopedia (June 23, 2026)**; references reviewed on October 13, 2026.
-- This is an offline snapshot. Updates are distributed as new HTML files, rather than synchronized with game updates.
+- **工具版本：1.2.0。**
+- **资料基线：Steam 中文百科的 1.5 版资料（2026-06-23）**，资料核对日期为 2026-10-13。
+- 采用离线资料快照，后续通过发布新的 HTML 文件更新，不会自动跟随游戏更新。
 
-The tool version and the reference-data version are separate. Death Parade additions are not yet fully covered, and the unlock guide is not a complete achievement list. Where information differs, refer to the version of the game you are playing.
+工具版本和资料版本分别编号。Death Parade 新增内容尚未完整收录，解锁指南也不是全部成就清单；遇到资料差异，请以正在游玩的游戏版本为准。
 
-## About ZhetengFM
+## 关于折腾FM
 
-<img src="docs/images/zhetengfm-logo.svg" alt="ZhetengFM / 折腾FM" width="300">
+<img src="docs/images/zhetengfm-logo.svg" alt="折腾FM" width="300">
 
-This project is created and maintained by **ZhetengFM (折腾FM)**.
+本项目由 **折腾FM** 制作并维护。
 
-ZhetengFM is an interview podcast about people who love to tinker. We seek out people who have spent years pursuing something, experimenting, and gradually finding their own way. We talk about how they started, how they explore their interests, and how those passions and experiences shape their lives.
+「折腾FM」是一档关于折腾的人物访谈播客。我们寻找那些在一件事情上长期投入、不断试错，并慢慢玩出门道的人，聊聊他们怎么开始、怎么研究，也会探讨这些爱好和经历如何影响他们的生活。
 
-**There is romance in taking play seriously.**
+**认真玩，本身就是一种浪漫。**
 
-### Listen and follow
+### 收听平台
 
-[Xiaoyuzhou](https://www.xiaoyuzhoufm.com/podcast/6aa75d71f6a83c7aadb07de1) · [Ximalaya](https://xima.tv/1_EPMW7h?_sonic=0) · [Apple Podcasts](https://podcasts.apple.com/cn/podcast/%E6%8A%98%E8%85%BEfm/id6811446094)
+[小宇宙](https://www.xiaoyuzhoufm.com/podcast/6aa75d71f6a83c7aadb07de1)｜[喜马拉雅](https://xima.tv/1_EPMW7h?_sonic=0)｜[苹果播客](https://podcasts.apple.com/cn/podcast/%E6%8A%98%E8%85%BEfm/id6811446094)
 
-[Xiaohongshu](https://xhslink.cn/o/5JNfppjlgps) · [Bilibili](https://space.bilibili.com/210202907) · [QQ Music](https://c6.y.qq.com/base/fcgi-bin/u?__=FxuIw77Oqkhg)
+[小红书](https://xhslink.cn/o/5JNfppjlgps)｜[哔哩哔哩](https://space.bilibili.com/210202907)｜[QQ音乐](https://c6.y.qq.com/base/fcgi-bin/u?__=FxuIw77Oqkhg)
 
-[Lizhi](http://m.lizhi.fm/vod/voicesheet/5521195757702708289?u=2612439153109150252) · [NetEase Cloud Music](https://163cn.tv/biuIL9Iy) · [Spotify](https://open.spotify.com/show/0V1IDpZKL0fSyQea493QSx?si=b1b9e510b0ca4764)
+[荔枝](http://m.lizhi.fm/vod/voicesheet/5521195757702708289?u=2612439153109150252)｜[网易云音乐](https://163cn.tv/biuIL9Iy)｜[Spotify](https://open.spotify.com/show/0V1IDpZKL0fSyQea493QSx?si=b1b9e510b0ca4764)
 
-Search for **折腾FM** to find the show. You can also subscribe through podcast apps that support RSS.
+搜索「折腾FM」即可找到节目，也可通过支持 RSS 的泛用型播客客户端订阅。
 
-### Contact
+### 联系我们
 
-- **Bilibili / Xiaohongshu:** [折腾FM on Bilibili](https://space.bilibili.com/210202907) / [折腾FM on Xiaohongshu](https://xhslink.cn/o/5JNfppjlgps)
-- **Email:** [zheteng@agent.qq.com](mailto:zheteng@agent.qq.com)
+- **B站 / 小红书：** [折腾FM（B站）](https://space.bilibili.com/210202907) / [折腾FM（小红书）](https://xhslink.cn/o/5JNfppjlgps)
+- **邮箱：** [zheteng@agent.qq.com](mailto:zheteng@agent.qq.com)
 
-Guest suggestions, show feedback, and business inquiries are welcome. To report a Wiki error, please include the entry name, game version, and a supporting reference.
+欢迎嘉宾自荐、节目建议及商务合作。发现 Wiki 资料错误，也欢迎附上条目名称、游戏版本和参考来源，帮助我们修订。
 
-## Sources and permissions
+## 资料来源与版权
 
-- Chinese reference data: [丸比 and 静火's Vampire Crawlers Encyclopedia](https://steamcommunity.com/sharedfiles/filedetails/?id=3716466231). Adapted reference data retains attribution and the original [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
-- Entry and image references: [Vampire Crawlers Wiki](https://vampire.survivors.wiki/w/Crawlers:Wiki). Individual sources are listed inside the tool.
-- Game artwork, characters, music, sound effects, and trademarks belong to poncle, Nosebleed Interactive, and their respective rights holders. The project icon is a derivative made from official artwork.
+- 基础中文资料：[丸比、静火《吸血鬼爬行者》百科全书](https://steamcommunity.com/sharedfiles/filedetails/?id=3716466231)。相应整理与改编资料保留署名，并沿用原资料的 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可。
+- 条目与图像参考：[Vampire Crawlers Wiki](https://vampire.survivors.wiki/w/Crawlers:Wiki)。具体出处可在页面内查看。
+- 游戏美术、角色、音乐、音效及商标等权利归 poncle、Nosebleed Interactive 及相应权利人所有。Wiki 图标基于官方素材制作，是本项目的衍生标识。
 
-This is a non-profit fan project for personal learning and use, with no affiliation, sponsorship, or authorization from the game's rights holders.
-
-**Source-available for non-commercial use; not released under a standard open-source license.** See [LICENSE.md](LICENSE.md). Third-party materials retain their own terms; publishing this repository does not grant rights to the game assets.
+本项目仅供个人学习与使用，无任何盈利目的，禁止任何形式的商业使用。项目与游戏权利人无隶属、赞助或授权关系。第三方游戏素材不包含在资料的 CC 许可授权中；原创代码按[非商业源码使用说明](LICENSE.md)公开，不采用标准开源许可证。
