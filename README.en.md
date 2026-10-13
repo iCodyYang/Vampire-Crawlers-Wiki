@@ -43,7 +43,7 @@ On desktop, hover over an icon for a preview and click for details. On mobile, t
 
 ## Version and data
 
-- **Tool version: 1.2.0.**
+- **Tool version: 1.2.1.**
 - **Data baseline: version 1.5 of the Steam Chinese encyclopedia (June 23, 2026)**; references reviewed on October 13, 2026.
 - This is an offline snapshot. Updates are distributed as new HTML files, rather than synchronized with game updates.
 
