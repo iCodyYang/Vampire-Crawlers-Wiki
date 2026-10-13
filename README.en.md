@@ -29,8 +29,8 @@ A Xiaohongshu mini-tool edition is also available through [ZhetengFM's Xiaohongs
 | Feature | What you can do |
 | --- | --- |
 | Evolution recipes | Browse 17 illustrated recipes, mark the materials you have, and check what is missing. |
-| Encyclopedia | Search and filter 108 cards, 58 gems, and 113 entries covering game systems. |
-| Unlock guide | Check requirements and rewards for 16 selected milestones, and track your progress. |
+| Encyclopedia | Search and filter 108 cards, 58 gems, and 115 entries covering game systems, including 18 relics. |
+| Unlock guide | Check requirements and rewards for 28 goals, including an 18-relic checklist, and track your progress. |
 | Builds and FAQ | Explore build ideas and learn about mana-cost combos, evolutions, gems, and other mechanics. |
 | Favorites and progress | Bookmark entries, save material selections and unlock progress, and create manual backups. |
 | Chinese and English | Switch languages for the interface, entries, and guides. English wording is an assisted translation. |
@@ -43,7 +43,8 @@ On desktop, hover over an icon for a preview and click for details. On mobile, t
 
 ## Version and data
 
-- **Tool version: 1.2.2.**
+- **Tool version: 1.3.0.**
+- **Relic update:** Includes all 18 listed relics and matching unlock entries. Names, effects and acquisition dungeons for Galileo’s Hand and Tappo were verified against game resources on 2026-10-13. Other content remains based on 1.5; this is not a complete 1.6.1 dataset.
 - **Data baseline: version 1.5 of the Steam Chinese encyclopedia (June 23, 2026)**; references reviewed on October 13, 2026.
 - This is an offline snapshot. Updates are distributed as new HTML files, rather than synchronized with game updates.
 
