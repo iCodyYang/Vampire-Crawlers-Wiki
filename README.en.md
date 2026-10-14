@@ -22,8 +22,6 @@ Created and maintained by **ZhetengFM (折腾FM)**. Look up card effects, evolut
 
 The same HTML file adapts to smaller screens: a bottom navigation bar provides access to Home, Evolutions, Encyclopedia, Unlocks, and More. Compact recipe layouts make browsing easier on phones. Narrowing a desktop window also activates this layout.
 
-A Xiaohongshu mini-tool edition is also available through [ZhetengFM's Xiaohongshu profile](https://xhslink.cn/o/5JNfppjlgps). This is a separate way to use the guide; you do not need to download or run that edition to use this repository.
-
 ## Features
 
 | Feature | What you can do |
